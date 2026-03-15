@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial release - Real-time chat with servers, channels, voice/video, notifications",
+  "pub_date": "2026-03-15T00:00:00Z",
+  "platforms": {
+    "win64": {
+      "url": "https://github.com/OrixHusky/Voxarra-releases/releases/download/v1.0.0/voxarra_1.0.0_x64_en-US.msi"
+    }
+  }
+}
